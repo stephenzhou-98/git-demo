@@ -9,4 +9,4 @@ hello git!
 hello git!
 hello git!
 nihao
-hot-fix version
+hot-fix version hot-fix-test
