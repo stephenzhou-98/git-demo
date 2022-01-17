@@ -10,3 +10,5 @@ hello git!
 hello git!
 nihao master-test
 hot-fix version
+nihao
+hot-fix version hot-fix-test
