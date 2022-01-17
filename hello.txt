@@ -8,5 +8,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-nihao
+nihao master-test
 hot-fix version
